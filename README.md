@@ -1,5 +1,11 @@
 # Claude Store Auto-Update Blocker
 
+## 🌐 Language
+
+- [中文版](./README_zh.md) — Chinese version of this document
+
+---
+
 ## 📦 Files
 
 | File | Purpose | How to Run |
@@ -143,10 +149,5 @@ Setting your network connection as **"Metered"** provides an extra layer of prot
 
 ---
 
-## 🌐 Language
-
-- [中文版](./README_zh.md) — Chinese version of this document
-
----
 
 *If you encounter any issues, re-run the script as administrator or refer to `排查报告.md` for detailed technical background.*
